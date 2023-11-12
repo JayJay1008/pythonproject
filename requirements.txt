@@ -1,0 +1,4 @@
+requests
+python-binance
+pandas
+numpy
